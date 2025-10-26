@@ -22,7 +22,7 @@ Es demonstriert:
 
 ## Anforderungen
 - MATLAB Online Basic oder Desktop-Version
-- Grundkenntnisse in MATLAB sind hilfreich, aber nicht notwendig
+- Grundkenntnisse in MATLAB 
 
 ## Ergebnisse
 - Plot für Teilnehmer 1
